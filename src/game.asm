@@ -1,5 +1,3 @@
-.plugin "se.triad.kickass.CruncherPlugins"
-
 .const p0start = $02
 .var p0current = p0start
 .function reservep0(n)
